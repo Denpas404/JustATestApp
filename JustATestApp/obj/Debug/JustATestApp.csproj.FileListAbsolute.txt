@@ -1,0 +1,8 @@
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\bin\Debug\JustATestApp.exe.config
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\bin\Debug\JustATestApp.exe
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\bin\Debug\JustATestApp.pdb
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\obj\Debug\JustATestApp.csproj.AssemblyReference.cache
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\obj\Debug\JustATestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\obj\Debug\JustATestApp.csproj.CoreCompileInputs.cache
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\obj\Debug\JustATestApp.exe
+C:\Users\denpaa\source\repos\JustATestApp\JustATestApp\obj\Debug\JustATestApp.pdb
